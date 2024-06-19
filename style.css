@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(360deg,black, white,blue);
+    background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: center;
+
+}
+
+.main{
+    background-color: rgba(248, 248, 0, 0.973);
+    width: 300px;
+}
